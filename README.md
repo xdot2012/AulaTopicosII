@@ -7,7 +7,7 @@
   <br>(Ao lado da pasta env) source env/bin/activate
 4. Instale as dependências:
   <br>(Ao lado do arquivo requirements.txt, com o ambiente virtual ativado) pip install -r requirements.txt
-5.Efetue as migrações no banco de dados:
+5. Efetue as migrações no banco de dados:
   <br>(Ao lado do arquivo manage.py, com o ambiente virtual ativado) python manage.py migrate
 6. Rode o Projeto:
   <br>(Ao lado do arquivo manage.py, com o ambiente virtual ativado) python manage.py runserver
