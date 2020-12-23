@@ -1,3 +1,7 @@
+# Descrição:
+Código desenvolvido em conjunto durante as aulas de Tópicos II - [Aplicações Web], ministradas pelo professor Luis Henrique Silva Rodrigues, durante o semestre extraporâneo 2020/5, na Universidade Federal dos Vales do Jequitinhonha e Mucuri.
+Estudamos o básico sobre aplicações do Framework Web para Python Django em sua versão 3.1.
+
 # Configuração de Ambiente:
 1. Clone ou faça o Download do projeto na sua máquina.
 2. Dentro da pasta do projeto, crie o seu ambiente virtual:
